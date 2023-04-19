@@ -1,0 +1,2 @@
+require("mateus")
+print("hello")
