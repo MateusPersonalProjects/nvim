@@ -1,2 +1,2 @@
 require("mateus.remap")
-print("hello from mateus")
+require("mateus.set")
